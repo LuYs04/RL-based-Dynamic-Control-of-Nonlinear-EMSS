@@ -221,3 +221,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Custom virtual environment & MATLAB
+rl_env/
+*.asv
+*.m~
